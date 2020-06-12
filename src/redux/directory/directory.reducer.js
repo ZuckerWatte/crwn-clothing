@@ -1,5 +1,3 @@
-import { CartActionTypes } from "../cart/cart.types";
-
 const INITIAL_STATE = {
   sections: [
     {
